@@ -129,6 +129,13 @@ a:hover {
   padding-bottom: 100px;
 }
 
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
 /* Header
   -------------------------------------------------------------------------- */
 
@@ -330,7 +337,6 @@ a.btn.download {
 .services-box {
   float: left;
   width: 1000px;
-  text-align: center;
   border: 1px solid #fdfffc;
   padding: 20px;
   margin: 10px;
