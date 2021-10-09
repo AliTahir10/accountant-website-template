@@ -86,6 +86,12 @@ a:hover {
   text-decoration: none;
 }
 
+.class {
+  margin: 0 auto;
+  text-align: center;
+  width: 10%;
+} 
+
 .nav-wrap,
 .content-wrap {
   max-width: 1020px;
