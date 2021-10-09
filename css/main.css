@@ -336,8 +336,6 @@ a.btn.download {
   float: left;
   width: 100px;
   text-align: center;
-  border: solid #fdfffc;
-  border-width: 0 1px;
   padding: 20px;
   margin: 5px;
 }
