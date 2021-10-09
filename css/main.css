@@ -327,7 +327,7 @@ a.btn.download {
 }
 
 .services-box {
-  float: left;
+  float: center;
   width: 90px;
   text-align: center;
   border: 1px solid #fdfffc;
