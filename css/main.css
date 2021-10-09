@@ -336,8 +336,9 @@ a.btn.download {
   float: left;
   width: 90px;
   text-align: center;
+  border: 1px solid #fdfffc;
   padding: 20px;
-  margin: 5px;
+  margin: 10px;
 }
 
 /* Testimonials
