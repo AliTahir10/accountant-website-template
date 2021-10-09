@@ -269,7 +269,8 @@ video {
 }
 
 .our-team h3,
-.services-box h3 {
+.
+ h3 {
   padding-bottom: 10px;
 }
 
@@ -327,11 +328,12 @@ a.btn.download {
 }
 
 .services-box {
-  float: center;
   width: 300px;
+  height: 100px;  
+  padding: 50px;
+  float: center;
   text-align: center;
   border: 1px solid #fdfffc;
-  padding: 20px;
   margin: 10px;
 }
 
