@@ -86,12 +86,6 @@ a:hover {
   text-decoration: none;
 }
 
-.box {
-  margin: 0 auto;
-  text-align: center;
-  width: 10%;
-} 
-
 .nav-wrap,
 .content-wrap {
   max-width: 1020px;
@@ -334,7 +328,7 @@ a.btn.download {
 
 .services-box {
   float: left;
-  width: 90px;
+  width: 30%;
   text-align: center;
   border: 1px solid #fdfffc;
   padding: 20px;
