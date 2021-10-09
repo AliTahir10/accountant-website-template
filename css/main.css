@@ -328,14 +328,13 @@ a.btn.download {
 }
 
 .services-box {
-  width: 300px; 
-  padding: 50px;
-  float: center;
+  float: left;
+  width: 300px;
   text-align: center;
   border: 1px solid #fdfffc;
+  padding: 20px;
   margin: 10px;
 }
-
 
 /* Testimonials
   -------------------------------------------------------------------------- */
