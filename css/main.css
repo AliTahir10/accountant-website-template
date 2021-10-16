@@ -662,6 +662,12 @@ footer .btn {
     text-align: center;
     min-height: 0px;
   }
+	
+  .contactcredit {
+	clear: both;
+  	padding-top: 50px;
+  	font-size: 20px;
+	}
 
   .latest-news .box {
     display: block;
