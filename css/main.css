@@ -245,6 +245,15 @@ video {
   background-position: center center;
 }
 
+/* Approach Hero Container
+  -------------------------------------------------------------------------- */
+
+.approach-hero {
+  background: linear-gradient(rgba(35, 35, 37, 0.5), rgba(35, 35, 37, 0.3)),
+    url(../images/approach.jpg) no-repeat;
+  background-position: center center;
+}
+
 /* Welcome
   -------------------------------------------------------------------------- */
 
